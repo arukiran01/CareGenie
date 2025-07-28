@@ -2,14 +2,9 @@
 
 **CareGenie** is a real-time AI-based eldercare monitoring system designed to provide continuous health tracking and autonomous emergency response for senior citizens. Built for families, especially NRIs, who wish to remotely care for aging loved ones, the system offers a secure, intelligent, and scalable solution for safer, independent living.
 
----
-
 ## 📹 Demo Video
 
-[▶️ Watch CareGenie in Action]([https://drive.google.com/file/d/your_drive_video_id/view](https://drive.google.com/file/d/17l1rmW4mnhCKiWtnKhewC1q2iZHQujKB/view?usp=drive_link))  
-
-
----
+[▶️ Watch CareGenie in Action]([https://drive.google.com/file/d/your_drive_video_id/view](https://drive.google.com/file/d/17l1rmW4mnhCKiWtnKhewC1q2iZHQujKB/view?usp=drive_link)) 
 
 ## 🧠 About the Project
 
@@ -23,7 +18,6 @@ CareGenie addresses the urgent need for responsive eldercare, especially for ind
 
 It is ideal for Non-Resident Indians (NRIs) who want to stay connected with their elderly parents' health status from anywhere in the world.
 
----
 
 ## 🔍 Key Features
 
@@ -35,13 +29,12 @@ It is ideal for Non-Resident Indians (NRIs) who want to stay connected with thei
 - 🧾 Historical Logs for Medical Review
 - 🔒 Strict Data Security (RLS, Access Control)
 
----
 
 ## 📸 Screenshots
 
 Real-time Dashboard 
 
-[Dashboard](./assets/dashboard.jpg) 
+[Dashboard](./Screenshot 2025-06-08 200802.png) 
 
 
 ---
