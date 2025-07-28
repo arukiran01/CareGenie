@@ -34,10 +34,7 @@ It is ideal for Non-Resident Indians (NRIs) who want to stay connected with thei
 
 Real-time Dashboard 
 
-[Dashboard](./Screenshot 2025-06-08 200802.png) 
-
-
----
+![Dashboard](./Screenshot%202025-06-08%20200802.png)
 
 ## 🚀 Getting Started
 
