@@ -47,13 +47,17 @@ To run CareGenie locally:
 
 
 #Install dependencies
+
 npm install
 
 ##Configure Supabase credentials
+
+
 Create a .env file and add your Supabase keys:
 SUPABASE_URL=https://your-supabase-project-url
 SUPABASE_ANON_KEY=your-anon-key
 
 
-##Start the app
+## Start the app
+
 npm start
